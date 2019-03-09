@@ -26,7 +26,7 @@ terminal-font: "Fixed Regular 13"
 	width = 713
 	align = "center"
 	text = "Use [↑] and [↓] keys to select. [Enter] to choose. [c] for command mode. [e] to edit"
-	font = "Hobo Regular 12"
+	font = "Hobo Regular 14"
 	color = "black"
 }
 
