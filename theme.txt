@@ -21,6 +21,8 @@ terminal-font: "Fixed Regular 13"
 		selected_item_color = "#00ad00"
 		item_padding = 40
 		item_icon_space = 20
+
+		scrollbar = false
 	}
 
 	+ label {
