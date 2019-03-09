@@ -21,7 +21,7 @@ terminal-font: "Fixed Regular 13"
 }
 
 + label {
-	left = 0
+	left = 40
 	top = 868
 	width = 713
 	align = "center"
