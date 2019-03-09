@@ -1,8 +1,7 @@
 archive: theme.txt background.png fonts icons/*
-	tar -czf starbound_grub2.tar.gz theme.txt background.png hobo-14.pf2 hobo-16.pf2 hobo-20.pf2 icons/
+	tar -czf starbound_grub2.tar.gz theme.txt background.png hobo-16.pf2 hobo-20.pf2 icons/
 
 fonts: hobo.ttf
-	grub-mkfont --output=hobo-14.pf2 --size=14 hobo.ttf
 	grub-mkfont --output=hobo-16.pf2 --size=16 hobo.ttf
 	grub-mkfont --output=hobo-20.pf2 --size=20 hobo.ttf
 

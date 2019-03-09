@@ -26,7 +26,7 @@ terminal-font: "Fixed Regular 13"
 	width = 713
 	align = "center"
 	text = "Use [↑] and [↓] keys to select. [Enter] to choose. [c] for command mode. [e] to edit"
-	font = "Hobo Regular 14"
+	font = "Hobo Regular 16"
 	color = "black"
 }
 
@@ -35,7 +35,7 @@ terminal-font: "Fixed Regular 13"
 	left = 40
 	top = 888
 	height = 35
-	width = 100%
+	width = 713
 
 	fg_color = "#217844"
 	bg_color = "#89a8cb"
@@ -44,4 +44,5 @@ terminal-font: "Fixed Regular 13"
 	align = "center"
 	text_color = "black"
 	text = "Booting in %d seconds"
+	font = "Hobo Regular 16"
 }
