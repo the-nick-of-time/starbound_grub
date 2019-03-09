@@ -26,11 +26,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="122.12134"
-     inkscape:cy="553.59798"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="-161.25413"
+     inkscape:cy="449.61563"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer6"
      showgrid="false"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-edge-midpoints="true"
@@ -38,10 +38,10 @@
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-midpoints="true"
      inkscape:snap-text-baseline="true"
-     inkscape:window-width="1382"
+     inkscape:window-width="1159"
      inkscape:window-height="768"
-     inkscape:window-x="156"
-     inkscape:window-y="255"
+     inkscape:window-x="365"
+     inkscape:window-y="203"
      inkscape:window-maximized="0"
      inkscape:object-paths="true" />
   <metadata
@@ -59,9 +59,9 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Background">
+     inkscape:label="Background"
+     sodipodi:insensitive="true">
     <image
-       style=""
        y="-7.6377954"
        x="-585"
        id="image3344"
@@ -16367,7 +16367,8 @@ ACRhMxchd1+sFkTUdR3llggRuyxNnY2I8zyXUv4/sTXS5qkJ+xIAAAAASUVORK5CYII=
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="Title">
+     inkscape:label="Title"
+     sodipodi:insensitive="true">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:30px;line-height:125%;font-family:Hobo;-inkscape-font-specification:'Hobo Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#005544;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -16385,33 +16386,159 @@ ACRhMxchd1+sFkTUdR3llggRuyxNnY2I8zyXUv4/sTXS5qkJ+xIAAAAASUVORK5CYII=
      id="layer4"
      inkscape:label="Boot menu and options">
     <rect
-       style="opacity:1;fill:none;stroke:#000000;stroke-width:1.20784628"
+       style="opacity:0.23;fill:none;stroke:#000000;stroke-width:1.24001479"
        id="rect3376"
-       width="713.79218"
-       height="665.79218"
-       x="-544.89606"
-       y="199.46611" />
-    <rect
-       style="opacity:1;fill:none;stroke:#000000"
-       id="rect3381"
-       width="713.79218"
-       height="64.896095"
-       x="-544.89606"
-       y="199.46611" />
-    <rect
-       style="opacity:1;fill:none;stroke:#000000"
-       id="rect3381-6"
-       width="713.79218"
-       height="64.896095"
-       x="-544.89606"
-       y="800.36218" />
-    <rect
-       style="opacity:1;fill:#217844;stroke:#800000"
-       id="rect3398"
-       width="713.79218"
-       height="32.448059"
-       x="-544.89606"
-       y="832.81024" />
+       width="713.76001"
+       height="701.76001"
+       x="-544.87994"
+       y="201.48219" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:Hobo;-inkscape-font-specification:'Hobo Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-504.87994"
+       y="242.3622"
+       id="text4217"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4219"
+         x="-504.87994"
+         y="242.3622">Ubuntu 16.04</tspan></text>
+    <g
+       inkscape:groupmode="layer"
+       id="layer6"
+       inkscape:label="Footer">
+      <rect
+         style="opacity:0.2;fill:none;stroke:#000000;stroke-width:1.02663291"
+         id="rect3381-6"
+         width="713.76001"
+         height="68.401955"
+         x="-544.87994"
+         y="834.84027" />
+      <rect
+         style="opacity:1;fill:#217844;stroke:#2a2aff;stroke-width:1"
+         id="rect3398"
+         width="484.76001"
+         height="34.200989"
+         x="-544.87994"
+         y="869.04126" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:15px;line-height:125%;font-family:Hobo;-inkscape-font-specification:'Hobo Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-187.06244"
+         y="857.88928"
+         id="text4211"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4213"
+           x="-187.06244"
+           y="857.88928">Use [↑] and [↓] keys to select. [Enter] to choose. [c] for command mode. [e] to edit</tspan></text>
+      <rect
+         style="opacity:1;fill:#89a8cb;fill-opacity:1;stroke:#2a2aff;stroke-width:1"
+         id="rect4215"
+         width="229"
+         height="34.200928"
+         x="-60.119934"
+         y="869.04126" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:Hobo;-inkscape-font-specification:'Hobo Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-504.87994"
+       y="302.83438"
+       id="text4217-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4219-9"
+         x="-504.87994"
+         y="302.83438">Windows 10</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:Hobo;-inkscape-font-specification:'Hobo Medium';letter-spacing:0px;word-spacing:0px;fill:#00ad00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="-504.87994"
+       y="363.30667"
+       id="text4217-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4219-1"
+         x="-504.87994"
+         y="363.30667">Ubuntu 16.04</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:Hobo;-inkscape-font-specification:'Hobo Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-504.87994"
+       y="423.77884"
+       id="text4217-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4219-4"
+         x="-504.87994"
+         y="423.77884">Ubuntu 16.04</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:Hobo;-inkscape-font-specification:'Hobo Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-504.87994"
+       y="484.25107"
+       id="text4217-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4219-5"
+         x="-504.87994"
+         y="484.25107">Ubuntu 16.04</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:Hobo;-inkscape-font-specification:'Hobo Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-504.87994"
+       y="544.72327"
+       id="text4217-54"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4219-98"
+         x="-504.87994"
+         y="544.72327">Ubuntu 16.04</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:Hobo;-inkscape-font-specification:'Hobo Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-504.87994"
+       y="605.19556"
+       id="text4217-38"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4219-52"
+         x="-504.87994"
+         y="605.19556">Ubuntu 16.04</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:Hobo;-inkscape-font-specification:'Hobo Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-504.87994"
+       y="665.66772"
+       id="text4217-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4219-2"
+         x="-504.87994"
+         y="665.66772">Ubuntu 16.04</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:Hobo;-inkscape-font-specification:'Hobo Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-504.87994"
+       y="726.13995"
+       id="text4217-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4219-0"
+         x="-504.87994"
+         y="726.13995">Ubuntu 16.04</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:Hobo;-inkscape-font-specification:'Hobo Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-504.87994"
+       y="786.61218"
+       id="text4217-34"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4219-6"
+         x="-504.87994"
+         y="786.61218">Ubuntu 16.04</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
