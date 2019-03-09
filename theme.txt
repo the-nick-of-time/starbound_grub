@@ -13,12 +13,15 @@ terminal-font: "Fixed Regular 13"
 
 	item_font = "Hobo Regular 16"
 	item_color = "black"
-	selected_item_color = "#00ad00"
-	item_padding = 15
+	item_padding = 40
 	item_icon_space = 20
-	item_height = 75
-	item_spacing = 0
+	icon_height = 32
+	icon_width = 32
+	# Give a little vertical padding around the icon
+	item_height = 38
+	item_spacing = 50
 
+	selected_item_color = "#00ad00"
 	selected_item_pixmap_style = "select_*.png"
 
 	# scrollbar = false
