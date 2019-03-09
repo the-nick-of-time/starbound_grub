@@ -1,0 +1,51 @@
+# Global options
+desktop-image: "background.png"
+title-text: "Select S.A.I.L. option"
+title-color: "#005544"
+title-font: "Hobo Regular 20"
+terminal-font: "Fixed Regular 13"
+
++ canvas {
+	top = 210
+	left = 40
+	width = 713
+	height = 701
+
+	+ boot_menu {
+		left = 0
+		top = 0
+		width = 100%
+
+		item_font = "Hobo Regular 16"
+		item_color = "black"
+		selected_item_color = "#00ad00"
+		item_padding = 40
+		item_icon_space = 20
+	}
+
+	+ label {
+		left = 0
+		top = 100%-55
+		width = 100%
+		align = "center"
+		text = "Use [↑] and [↓] keys to select. [Enter] to choose. [c] for command mode. [e] to edit"
+		font = "Hobo Regular 12"
+		color = "black"
+	}
+
+	+ progress_bar {
+		id = "__timeout__"
+		left = 0
+		top = 100%-35
+		height = 35
+		width = 100%
+
+		fg_color = "#217844"
+		bg_color = "#89a8cb"
+		border_color = "#2A2AFF"
+
+		align = "center"
+		text_color = "black"
+		text = "Booting in %d seconds"
+	}
+}
