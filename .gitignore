@@ -1,2 +1,4 @@
 !*.png
 !theme.txt
+*.tar.gz
+*.pf2
