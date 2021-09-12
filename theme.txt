@@ -2,7 +2,7 @@
 desktop-image: "background.png"
 title-text: "Select S.A.I.L. option"
 title-color: "#005544"
-title-font: "Hobo Regular 20"
+title-font: "Hobo Regular 40"
 terminal-font: "Fixed Regular 13"
 
 + boot_menu {
