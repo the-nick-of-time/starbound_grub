@@ -1,7 +1,7 @@
 GRUB_DEFAULT=saved
 GRUB_TIMEOUT=10
 GRUB_TIMEOUT_STYLE=hidden
-GRUB_DISTRIBUTOR="Manjaro"
+GRUB_DISTRIBUTOR="Kubuntu"
 GRUB_CMDLINE_LINUX_DEFAULT="quiet apparmor=1 security=apparmor udev.log_priority=3"
 GRUB_CMDLINE_LINUX=""
 
