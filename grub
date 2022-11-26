@@ -3,6 +3,7 @@ GRUB_TIMEOUT=10
 GRUB_TIMEOUT_STYLE=hidden
 GRUB_CMDLINE_LINUX_DEFAULT="quiet apparmor=1 security=apparmor udev.log_priority=3"
 GRUB_CMDLINE_LINUX=""
+GRUB_DISTRIBUTOR="$(lsb_release -d -s)"
 
 # If you want to enable the save default function, uncomment the following
 # line, and set GRUB_DEFAULT to saved.
